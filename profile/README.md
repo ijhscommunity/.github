@@ -1,7 +1,6 @@
 ## Hey, welcome to the International Junior Honour Society 👋
 
-![ijhsbanner](https://user-images.githubusercontent.com/105997270/210386374-82f0e5fa-f92b-4f0a-8fbd-8cea996ebb2b.jpg)
-![A photo from one of the many workshops hosted at the Young Achievers Leadership Academy 2022 in Singapore.](ijhsbanner.jpg)
+![A photo from one of the many workshops hosted at the Young Achievers Leadership Academy 2022 in Singapore.](https://user-images.githubusercontent.com/105997270/210386374-82f0e5fa-f92b-4f0a-8fbd-8cea996ebb2b.jpg)
 
 The International Junior Honour Society (IJHS) is a global community of young people who are passionate about making a difference in their communities. We are a non-profit organisation that aims to empower young people to become leaders in their communities and beyond. We do this by providing them with the tools and resources they need to make a difference in their communities, all while having fun and making new friends.
 
