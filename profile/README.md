@@ -12,7 +12,7 @@ It is split into 3 committees:
 
 - The **Community Service Projects (CSP)** Committee is responsible for managing the IJHS' community service projects and ensuring that they are carried out successfully.
 - The **Development and Improvement Programs (DIP)** Committee manages community initiatives and programs that aim to improve the IJHS and its members as individuals.
-- The **Technology and Communications (T&C)** Committee is responsible for managing the IJHS' online presence and ensuring that the IJHS' members are kept up to date with the latest news and events.
+- The **Technology (Tech)** Committee is responsible for managing the IJHS' online presence and ensuring that the IJHS' members are kept up to date with the latest news and events.
 
 ## 🤝 Contributing to the IJHS
 
